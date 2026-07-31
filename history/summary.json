@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eclipsetravel.com.au.ico",
     "slug": "eclipse-aus",
     "status": "down",
-    "uptime": "20.05%",
-    "uptimeDay": "20.05%",
-    "uptimeWeek": "20.05%",
-    "uptimeMonth": "20.05%",
-    "uptimeYear": "20.05%",
-    "time": 15,
-    "timeDay": 15,
-    "timeWeek": 15,
-    "timeMonth": 15,
-    "timeYear": 15,
+    "uptime": "0.58%",
+    "uptimeDay": "0.58%",
+    "uptimeWeek": "0.58%",
+    "uptimeMonth": "0.58%",
+    "uptimeYear": "0.58%",
+    "time": 69,
+    "timeDay": 69,
+    "timeWeek": 69,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {
-      "2026-07-30": 1
+      "2026-07-31": 30,
+      "2026-07-30": 4
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eclipsetravel.co.nz.ico",
     "slug": "eclipse-nz",
     "status": "down",
-    "uptime": "24.95%",
-    "uptimeDay": "24.95%",
-    "uptimeWeek": "24.95%",
-    "uptimeMonth": "24.95%",
-    "uptimeYear": "24.95%",
-    "time": 21,
-    "timeDay": 21,
-    "timeWeek": 21,
-    "timeMonth": 21,
-    "timeYear": 21,
+    "uptime": "0.58%",
+    "uptimeDay": "0.58%",
+    "uptimeWeek": "0.58%",
+    "uptimeMonth": "0.58%",
+    "uptimeYear": "0.58%",
+    "time": 65,
+    "timeDay": 65,
+    "timeWeek": 65,
+    "timeMonth": 65,
+    "timeYear": 65,
     "dailyMinutesDown": {
-      "2026-07-30": 1
+      "2026-07-31": 30,
+      "2026-07-30": 4
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eclipsetravel.com.ico",
     "slug": "eclipse-us",
     "status": "down",
-    "uptime": "36.06%",
-    "uptimeDay": "36.06%",
-    "uptimeWeek": "36.06%",
-    "uptimeMonth": "36.06%",
-    "uptimeYear": "36.06%",
-    "time": 15,
-    "timeDay": 15,
-    "timeWeek": 15,
-    "timeMonth": 15,
-    "timeYear": 15,
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
+    "time": 64,
+    "timeDay": 64,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 64,
     "dailyMinutesDown": {
-      "2026-07-30": 0
+      "2026-07-31": 30,
+      "2026-07-30": 4
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eclipsetravel.com.au.ico",
     "slug": "eclipse-aus-africa",
     "status": "down",
-    "uptime": "56.89%",
-    "uptimeDay": "56.89%",
-    "uptimeWeek": "56.89%",
-    "uptimeMonth": "56.89%",
-    "uptimeYear": "56.89%",
-    "time": 17,
-    "timeDay": 17,
-    "timeWeek": 17,
-    "timeMonth": 17,
-    "timeYear": 17,
+    "uptime": "0.58%",
+    "uptimeDay": "0.58%",
+    "uptimeWeek": "0.58%",
+    "uptimeMonth": "0.58%",
+    "uptimeYear": "0.58%",
+    "time": 63,
+    "timeDay": 63,
+    "timeWeek": 63,
+    "timeMonth": 63,
+    "timeYear": 63,
     "dailyMinutesDown": {
-      "2026-07-30": 0
+      "2026-07-31": 30,
+      "2026-07-30": 3
     }
   }
 ]
