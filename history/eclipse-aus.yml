@@ -1,7 +1,7 @@
-url: https://eclipsetravel.com.au/?cf=iRv85Q59YDtQTmxbXs2lJMQMJ
-status: up
-code: 200
-responseTime: 2394
-lastUpdated: 2026-07-31T01:32:40.558Z
+url: https://eclipsetravel.com.au/?cf=$CF_BYPASS
+status: down
+code: 403
+responseTime: 30
+lastUpdated: 2026-07-31T01:33:42.934Z
 startTime: 2026-07-30T23:55:44.939Z
 generator: Upptime <https://github.com/upptime/upptime>
