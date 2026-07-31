@@ -7,13 +7,21 @@ secrets:
   
 sites:
   - name: Eclipse Aus
-    url: https://eclipsetravel.com.au/?cf=$CF_BYPASS
+    url: https://eclipsetravel.com.au/    
+    headers:
+      - "x-cf-bypass: $CF_BYPASS"
   - name: Eclipse NZ
     url: https://eclipsetravel.co.nz/?cf=$CF_BYPASS
+    headers:
+      - "x-cf-bypass: $CF_BYPASS"
   - name: Eclipse US
-    url: https://eclipsetravel.com/?cf=$CF_BYPASS
+    url: https://eclipsetravel.com/
+    headers:
+      - "x-cf-bypass: $CF_BYPASS"    
   - name: Eclipse Aus - Africa
-    url: https://eclipsetravel.com.au/africa?cf=$CF_BYPASS
+    url: https://eclipsetravel.com.au/africa
+    headers:
+      - "x-cf-bypass: $CF_BYPASS"    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
