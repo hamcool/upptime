@@ -4,12 +4,15 @@ repo: upptime
 
 secrets:
   - CF_BYPASS
+  - NOTIFICATION_EMAIL
+  - NOTIFICATION_EMAIL_FROM
+  - NOTIFICATION_EMAIL_SENDGRID
+  - NOTIFICATION_EMAIL_SENDGRID_API_KEY
+  - NOTIFICATION_EMAIL_TO
   
 sites:
   - name: Eclipse Aus
     url: https://eclipsetravel.com.au/    
-    headers:
-      - "x-cf-bypass: $CF_BYPASS"
   - name: Eclipse NZ
     url: https://eclipsetravel.co.nz/?cf=$CF_BYPASS
     headers:
