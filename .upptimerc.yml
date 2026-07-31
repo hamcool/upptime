@@ -2,15 +2,18 @@
 owner: hamcool
 repo: upptime
 
+secrets:
+  - CF_BYPASS
+  
 sites:
   - name: Eclipse Aus
-    url: https://eclipsetravel.com.au/?cf=iRv85Q59YDtQTmxbXs2lJMQMJ
+    url: https://eclipsetravel.com.au/?cf=$CF_BYPASS
   - name: Eclipse NZ
-    url: https://eclipsetravel.co.nz/?cf=iRv85Q59YDtQTmxbXs2lJMQMJ
+    url: https://eclipsetravel.co.nz/?cf=$CF_BYPASS
   - name: Eclipse US
-    url: https://eclipsetravel.com/?cf=iRv85Q59YDtQTmxbXs2lJMQMJ
+    url: https://eclipsetravel.com/?cf=$CF_BYPASS
   - name: Eclipse Aus - Africa
-    url: https://eclipsetravel.com.au/africa?cf=iRv85Q59YDtQTmxbXs2lJMQMJ
+    url: https://eclipsetravel.com.au/africa?cf=$CF_BYPASS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
