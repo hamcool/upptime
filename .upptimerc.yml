@@ -9,12 +9,14 @@ secrets:
   - NOTIFICATION_EMAIL_SENDGRID
   - NOTIFICATION_EMAIL_SENDGRID_API_KEY
   - NOTIFICATION_EMAIL_TO
+  - NOTIFICATION_TEAMS
+  - NOTIFICATION_TEAMS_WEBHOOK_URL
   
 sites:
   - name: Eclipse Aus
     url: https://eclipsetravel.com.au/    
   - name: Eclipse NZ
-    url: https://eclipsetravel.co.nz/?cf=$CF_BYPASS
+    url: https://eclipsetravel.co.nz/
     headers:
       - "x-cf-bypass: $CF_BYPASS"
   - name: Eclipse US
