@@ -4,11 +4,11 @@ repo: upptime
 
 sites:
   - name: Eclipse Aus
-    url: https://eclipsetravel.com.au/
+    url: https://eclipsetravel.com.au/?cf=iRv85Q59YDtQTmxbXs2lJMQMJ
   - name: Eclipse NZ
-    url: https://eclipsetravel.co.nz/
+    url: https://eclipsetravel.co.nz/?cf=iRv85Q59YDtQTmxbXs2lJMQMJ
   - name: Eclipse US
-    url: https://eclipsetravel.com/
+    url: https://eclipsetravel.com/?cf=iRv85Q59YDtQTmxbXs2lJMQMJ
   - name: Eclipse Aus - Africa
     url: https://eclipsetravel.com.au/africa?cf=iRv85Q59YDtQTmxbXs2lJMQMJ
 
